@@ -1,0 +1,56 @@
+/* HOMEPAGE */
+body{font-family: 'Merriweather', serif;}
+{font weight: 400}
+h1,h2,h3,h4,h5,h6,h7,h8{font weight: 700}
+
+
+#header_area{ background: #2e2e2e;}
+.social_links{ width: 100%; clear: both; padding-bottom: 5% ; padding-top: 5%;}
+a.class1:link { color: gainsboro; background-color: transparent; text-decoration: none;}
+a.class1:hover{color: aqua}
+
+.social_area{text-align: right; width: 120%; clear: both; padding-right: 10px ; padding-left: 0px;padding-bottom: 30px;padding-top: 30px}
+.social_area ul{margin: 0; padding: 0; list-style:  none;}
+.social_area ul li{display: inline-block; margin-left: 5px;}
+.social_area ul li a{background: #787878; width: 30px; height: 35px; color: #fff ; display: block;text-align: center;padding-top: 10px;border-radius: 50%; transition: 0.6s; }
+.social_area ul li a:hover{background: #db4a39;}
+
+
+.main_menu{border-bottom: 5px solid #f1f1f1; margin-top: 1%; text-align: left ; width: 100%; clear: both; padding-left:135;padding-bottom:0px; padding-top:8px;}
+a.class2:link {text-align: center; color: black; background-color: transparent; text-decoration: none;}
+.main_menu ul{margin: 0; padding:20; list-style:  none;}
+.main_menu ul li{display: inline-block; margin-left: 5px;}
+
+
+#search_area{ width: 100%; clear:both;}
+.search_area input{background: #f1f1f1; color: black;border: 0% solid; padding: 0.5%; border-radius: 5px;margin-top: 5px; padding-right: 20px;margin-right: 0%;}
+.search_area input[type="submit"]{background-color: skyblue;cursor: pointer;transition: 0.5s;}
+.search_area input[type="submit"]:hover{background: #ee802f}
+
+.logo{margin-top: 2%;padding-left:10%}
+
+#footer_area{background: #252525; padding: 40px 0; color: #fff;}
+#footer_area h3{font-size: 20px;}
+#footer_area ul{margin: 0; padding: 0; list-style: none;}
+#footer_area ul li{display: block;margin-bottom: 5px; border-bottom: 1px solid #ddd;}
+#footer_area ul li a{color: #666666;padding: 5px;display: block;}
+#footer_area input{margin-bottom: 10px; background-color: #232323;color: gainsboro}
+#footer_area input[type="submit"] {margin-bottom: 10px; background-color: #0099ff;color: #fff}
+
+
+#copyright{background: #222222; padding: 20px 0; color: #fff; }
+#copyright p{margin: 0;}
+#copyright .col-md-6:last-child{text-align: right;}
+
+.small{padding: 8%; justify-content: center;}
+
+
+
+
+
+
+
+
+
+
+
